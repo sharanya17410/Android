@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+
+    <ImageView android:id="@+id/imageView1"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        >
+
+    </ImageView>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Task"
+        android:id="@+id/TaskName"
+        android:layout_below="@+id/imageView1"
+        android:textStyle="bold">
+
+    </EditText>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/TaskDescription"
+        android:hint="Sub task"
+        android:layout_below="@+id/TaskName">
+
+    </EditText>
+    <LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+    <Button
+        android:id="@+id/addPhotoBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Add photo"
+        >
+
+    </Button>
+    <Button
+        android:id="@+id/saveBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Save"
+        android:layout_alignRight="@+id/addPhotoBtn">
+
+    </Button>
+
+</LinearLayout>
+
+
+</RelativeLayout>

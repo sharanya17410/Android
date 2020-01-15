@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "503343069818",
+    "firebase_url": "https://todolist-d509c.firebaseio.com",
+    "project_id": "todolist-d509c",
+    "storage_bucket": "todolist-d509c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503343069818:android:683a9e731d139c416b99c3",
+        "android_client_info": {
+          "package_name": "com.example.mobilechallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503343069818-mca7ok8usqrh7i0r64jngrjgta86b87d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobilechallenge",
+            "certificate_hash": "c8fef677e4549e1ab9b3a31055c4b1d0267a7785"
+          }
+        },
+        {
+          "client_id": "503343069818-qps4fegdkhm6ggcpmmmtfk10dnvc06rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0xZ3_UMKKqaEZuqR9VADW0e1qv-Y_fCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503343069818-qps4fegdkhm6ggcpmmmtfk10dnvc06rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503343069818:android:56aea9ad692fbd626b99c3",
+        "android_client_info": {
+          "package_name": "com.mobileChallenge.ToDolApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503343069818-g4c0nll3r2b37rf5m54t9js0gc95nl4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobileChallenge.ToDolApp",
+            "certificate_hash": "18c1e02db362c43d30ad5a4929e44193f4a2d3fe"
+          }
+        },
+        {
+          "client_id": "503343069818-0qg09fqpo4e4uisupcmgkrgfq8ioahki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobileChallenge.ToDolApp",
+            "certificate_hash": "c8fef677e4549e1ab9b3a31055c4b1d0267a7785"
+          }
+        },
+        {
+          "client_id": "503343069818-qps4fegdkhm6ggcpmmmtfk10dnvc06rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0xZ3_UMKKqaEZuqR9VADW0e1qv-Y_fCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503343069818-qps4fegdkhm6ggcpmmmtfk10dnvc06rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
